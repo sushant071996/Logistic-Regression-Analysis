@@ -82,10 +82,6 @@ In this project I'm trying to analyze and visualize the Output variable i.e Purc
 
 ![](Figures/heatmap.png)
 
-4)Anova Test
-
-![](Figures/HeatMap.png)
-
 5)Anova Test
 
 ![](Figures/anova_2.png)
@@ -125,7 +121,7 @@ In this project I'm trying to analyze and visualize the Output variable i.e Purc
 
 12)final scatter plot with actual boundry
 
-![](Figures/ithboundary_1.png)
+![](Figures/scatterwithboundary_1.png)
 
 13) Consider Both Age and Estimated Salary standardized and final scatter plot
 
