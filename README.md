@@ -121,7 +121,7 @@ In this project I'm trying to analyze and visualize the Output variable i.e Purc
 
 12)final scatter plot with actual boundry
 
-![](Figures/scatterwithboundary_1.png)
+![](Figures/finalboun.png)
 
 13) Consider Both Age and Estimated Salary standardized and final scatter plot
 
